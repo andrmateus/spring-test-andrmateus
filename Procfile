@@ -1,0 +1,1 @@
+web: java -jar target/spring-test-andrmateus-1.0.jar
