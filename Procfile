@@ -1,1 +1,1 @@
-web: java -jar target/spring-test-andrmateus-1.0.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/*.jar
